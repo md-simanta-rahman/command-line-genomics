@@ -1,7 +1,7 @@
-[5/1/2026 3:57 PM] Kkk: 
-Command Line Tools for Genomic Data Science
-Platform: Coursera (Offered by Johns Hopkins University)
-Instructor: Liliana Florea, Ph.D.Instructor: Liliana Florea, Ph.D.
+#Command Line Tools for Genomic Data Science
+Platform: Coursera (Johns Hopkins University)
+Instructor: Liliana Florea, Ph.D.
+Start Date: May 1, 2026
 
 ## 🎯 Course Goals
 - Master Unix/Linux shell for managing genomic data.
