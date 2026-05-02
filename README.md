@@ -42,7 +42,7 @@ Bioinformatics is as much about troubleshooting as it is about analysis. Below a
 
 ---
 
-## 📸 Technical Logs & Practice Screenshots
+## Technical Logs & Practice Screenshots
 
 ### 1. Data Acquisition and Quality Check
 ![Data Inspection](Images/image_c18bb7.jpg)
@@ -54,5 +54,5 @@ Bioinformatics is as much about troubleshooting as it is about analysis. Below a
 ![Error Resolution](Images/image_c18b22.png)
 
 ---
-**Author:** Md. Simanta Rahman 
-**Focus: Environmental Microbiology & Metagenomics
+**Author:** **Md. Simanta Rahman**  
+**Focus:** **Environmental Microbiology & Metagenomics** 
