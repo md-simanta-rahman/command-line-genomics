@@ -53,6 +53,8 @@ Bioinformatics is as much about troubleshooting as it is about analysis. Below a
 ### 3. Workflow Troubleshooting
 ![Error Resolution](Images/image_c18b22.png)
 
+
+
 ---
 **Author:** **Md. Simanta Rahman**  
 **Focus:** **Environmental Microbiology & Metagenomics** 
