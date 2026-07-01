@@ -52,8 +52,12 @@ Bioinformatics is as much about troubleshooting as it is about analysis. Below a
 
 ### 3. Workflow Troubleshooting
 ![Error Resolution](Images/image_c18b22.png)
+ <img width="820" height="455" alt="image" src="https://github.com/user-attachments/assets/6f290f8d-3511-4265-bc8d-874e6be55e76" />
+  ## 📚 Bioinformatics Notes
 
+This repository contains my personal notes on bioinformatics tools.
 
+- [SRA-tools](Notes/SRA-tools.md)
 
 ---
 **Author:** **Md. Simanta Rahman**  
